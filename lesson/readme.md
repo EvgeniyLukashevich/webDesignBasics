@@ -10,14 +10,16 @@
     -       https://www.figma.com/file/wBdyeMhgGCn3fKThaQ1yXG/Landing_Page?node-id=217%3A2
 2. Ученикам необходимо разбить представленную на скриншоте часть на блоки:  
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1fa0526-eb7d-4985-a86d-2ff36fb6ff29/Untitled.png)
+![image](https://github.com/EvgeniyLukashevich/webDesignBasics/assets/108574612/7c4f5d7f-8c62-45f1-8e43-07b38097bc43)
+
 
 3. Можно рисовать в макете, можно на картинки в paint можно любым удобным способом
 4. Преподавателю продемонстрировать как можно скопировать проект себе и как можно нарисовать прямоугольники в проекте  
 
 ###### Пример того что должно получиться:  
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ed21173-0c30-48bd-9288-cacb684ff87e/image2.png)  
+![image](https://github.com/EvgeniyLukashevich/webDesignBasics/assets/108574612/f62394cb-e1b8-4a65-b3bd-bc7f1c17380e)
+
 
 ---
 ---  
