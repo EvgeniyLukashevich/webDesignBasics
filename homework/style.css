@@ -110,6 +110,149 @@ a {
 }
 
 
+/* Стили к дз № 5 */
+
+.hw5__center {
+    padding-left: calc(50% - 602px);
+    padding-right: calc(50% - 602px);
+}
+
+.hw5__top__content {
+    display: grid;
+    grid-template-columns: repeat(3, 381px);
+    gap: 30px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: #fff;
+}
+
+.hw5__middle__item {
+    box-shadow: 15px 25px 56px 6px rgba(0, 0, 0, 0.06);
+}
+
+.hw5__item {
+    height: 291px;
+    display: grid;
+    justify-items: start;
+    align-content: space-evenly;
+    padding-left: 29px;
+    padding-right: 42px;
+}
+
+.hw5__top__icon {
+    width: 70px;
+    height: 70px;
+    flex-shrink: 0;
+}
+
+.hw5__item__header {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.hw5__top__paragraph {
+    color: #666;
+    font-family: Gilroy-Regular;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 22.5px */
+}
+
+.hw5__top__link {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 16.5px */
+}
+
+
+
+
+.hw5__info__content {
+    background: #FAFAFA repeat;
+
+}
+
+.hw5__info__text{
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    padding-top: 92px;
+    padding-bottom: 50px;
+    gap: 19px;
+}
+
+.hw5__header {
+    color: #000;
+    font-family: Gilroy-Bold;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    max-width: 682px;
+}
+
+.hw5__info__paragraph {
+    color: #666;
+    font-family: Gilroy-Regular;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+    max-width: 682px;
+}
+
+.hw5__info__items {
+    display: grid;
+    grid-template-columns: repeat(3, 370px);
+    gap: 30px;
+    
+}
+
+.hw5__info__item {
+    background-color: #FFF;
+    height: 549px;
+    margin-bottom: 100px;
+}
+
+.hw5__info__middle__item {
+    box-shadow: 15px 25px 60px -5px rgba(0, 0, 0, 0.10);
+}
+
+.hw5__info__item__text {
+    display: grid;
+    justify-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.hw5__info__img1 {
+    padding-bottom: 15px;
+}
+
+.hw5__info__item__paragraph {
+    color: #AAA;
+    text-align: center;
+    font-family: Gilroy-Regular;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 22.5px */
+    padding-top: 22px;
+    padding-bottom: 39px;
+}
+
+
+/* Футер */
+
 .foot__logos {
     padding-top: 96px;
     padding-bottom: 97px;
