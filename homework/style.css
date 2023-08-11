@@ -292,7 +292,7 @@ figcaption {
     right: 0;
     bottom: 0;
     padding: 1em;
-    color: #fff;
+
     background: rgba(58, 56, 56, 0.86);
     opacity: 0;
     transition: opacity .7s;
