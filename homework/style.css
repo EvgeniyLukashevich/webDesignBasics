@@ -216,7 +216,7 @@ a {
     line-height: normal;
 }
 
-.gallery__area button{
+.gallery__button{
     width: 212px;
     height: 48px;
     background: none;
@@ -282,6 +282,52 @@ a {
     width: 360px;
     height: 585px;
     background-color: #f8f8f8;
+    position: relative;
+}
+
+figcaption {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    padding: 1em;
+    color: #fff;
+    background: rgba(0,0,0,.5);
+    opacity: 0;
+    transition: opacity .7s;
+    cursor: pointer;
+    font: 32px sans-serif;
+    letter-spacing: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item__button {
+    width: 139px;
+    height: 44px;
+    background: none;
+    border: 1px solid #fff;
+    align-self: center;
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 11px;
+}
+
+.item__button h6{
+    color: #FFF;
+    font-family: Lato;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.gallery__item:hover figcaption {
+    opacity: 1;
 }
 
 .gallery__item:hover {
