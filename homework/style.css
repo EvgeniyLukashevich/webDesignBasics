@@ -12,12 +12,6 @@ body {
     padding-right: calc(50% - 570px);
 }
 
-.hello__center {
-    padding-left: calc(50% - 800px);
-    padding-right: calc(50% - 800px);
-}
-
-
 a {
     text-decoration: none;
 }
@@ -38,9 +32,6 @@ a {
     padding-bottom: 19px;
 }
 
-.header__rightbox {
-
-}
 
 .header__logo {
     width: 44px;
