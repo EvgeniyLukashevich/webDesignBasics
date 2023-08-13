@@ -281,21 +281,21 @@ a {
     width: 360px;
     height: 585px;
     background-color: #f8f8f8;
+}
+
+.gallery__img {
     position: relative;
 }
 
-figcaption {
+.gallery__item figcaption {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     bottom: 0;
-    padding: 1em;
     background: rgba(58, 56, 56, 0.86);
     opacity: 0;
-    transition: opacity 0.5s;
-    font: 32px sans-serif;
-    letter-spacing: 3px;
+    transition: opacity 0.8s;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -307,7 +307,6 @@ figcaption {
     background: none;
     border: 1px solid #fff;
     align-self: center;
-    margin-bottom: 60px;
     display: flex;
     justify-content: center;
     align-items: center;
