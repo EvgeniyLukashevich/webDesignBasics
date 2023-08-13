@@ -216,15 +216,6 @@ a {
     line-height: normal;
 }
 
-.gallery__button{
-    width: 212px;
-    height: 48px;
-    background: none;
-    border: 1px solid #FF6A6A;
-    align-self: center;
-    margin-bottom: 60px;
-}
-
 .gallery__top__text {
     display: flex;
     flex-direction: column;
@@ -333,6 +324,20 @@ a {
 
 .gallery__text {
     padding: 24px 16px;
+}
+
+.gallery__footer {
+    width: 212px;
+    height: 48px;
+    align-self: center;
+    margin-bottom: 60px;
+}
+
+.gallery__button{
+    width: 212px;
+    height: 48px;
+    background: none;
+    border: 1px solid #FF6A6A;
 }
 
 
