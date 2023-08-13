@@ -277,7 +277,6 @@ a {
     padding-bottom: 16px;
 }
 
-
 .gallery__item {
     width: 360px;
     height: 585px;
@@ -294,8 +293,7 @@ figcaption {
     padding: 1em;
     background: rgba(58, 56, 56, 0.86);
     opacity: 0;
-    transition: opacity .7s;
-    cursor: pointer;
+    transition: opacity 0.5s;
     font: 32px sans-serif;
     letter-spacing: 3px;
     display: flex;
@@ -329,11 +327,6 @@ figcaption {
     opacity: 1;
 }
 
-.gallery__item:hover {
-    background-color: #e7e7e7;
-}
-
-
 .gallery__img {
     width: 360px;
     height: 420px;
@@ -342,7 +335,6 @@ figcaption {
 .gallery__text {
     padding: 24px 16px;
 }
-
 
 
 
@@ -397,3 +389,5 @@ figcaption {
         margin-bottom: 70px;
     }
 }
+
+
